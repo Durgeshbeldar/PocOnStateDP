@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "S:\\Office Work\\Monocept Training\\Assignments\\PocOnStateDesignPattern\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F3C79CD3-67E3-46B6-9FD8-3132C257615A}|PocOnStateDesignPattern\\PocOnStateDesignPattern.csproj|s:\\office work\\monocept training\\assignments\\poconstatedesignpattern\\poconstatedesignpattern\\presentation\\applicationui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3C79CD3-67E3-46B6-9FD8-3132C257615A}|PocOnStateDesignPattern\\PocOnStateDesignPattern.csproj|solutionrelative:poconstatedesignpattern\\presentation\\applicationui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3C79CD3-67E3-46B6-9FD8-3132C257615A}|PocOnStateDesignPattern\\PocOnStateDesignPattern.csproj|s:\\office work\\monocept training\\assignments\\poconstatedesignpattern\\poconstatedesignpattern\\states\\statemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3C79CD3-67E3-46B6-9FD8-3132C257615A}|PocOnStateDesignPattern\\PocOnStateDesignPattern.csproj|solutionrelative:poconstatedesignpattern\\states\\statemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3C79CD3-67E3-46B6-9FD8-3132C257615A}|PocOnStateDesignPattern\\PocOnStateDesignPattern.csproj|s:\\office work\\monocept training\\assignments\\poconstatedesignpattern\\poconstatedesignpattern\\context\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3C79CD3-67E3-46B6-9FD8-3132C257615A}|PocOnStateDesignPattern\\PocOnStateDesignPattern.csproj|solutionrelative:poconstatedesignpattern\\context\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3C79CD3-67E3-46B6-9FD8-3132C257615A}|PocOnStateDesignPattern\\PocOnStateDesignPattern.csproj|s:\\office work\\monocept training\\assignments\\poconstatedesignpattern\\poconstatedesignpattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3C79CD3-67E3-46B6-9FD8-3132C257615A}|PocOnStateDesignPattern\\PocOnStateDesignPattern.csproj|solutionrelative:poconstatedesignpattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3C79CD3-67E3-46B6-9FD8-3132C257615A}|PocOnStateDesignPattern\\PocOnStateDesignPattern.csproj|s:\\office work\\monocept training\\assignments\\poconstatedesignpattern\\poconstatedesignpattern\\states\\state.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3C79CD3-67E3-46B6-9FD8-3132C257615A}|PocOnStateDesignPattern\\PocOnStateDesignPattern.csproj|solutionrelative:poconstatedesignpattern\\states\\state.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3C79CD3-67E3-46B6-9FD8-3132C257615A}|PocOnStateDesignPattern\\PocOnStateDesignPattern.csproj|s:\\office work\\monocept training\\assignments\\poconstatedesignpattern\\poconstatedesignpattern\\states\\basicstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3C79CD3-67E3-46B6-9FD8-3132C257615A}|PocOnStateDesignPattern\\PocOnStateDesignPattern.csproj|solutionrelative:poconstatedesignpattern\\states\\basicstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3C79CD3-67E3-46B6-9FD8-3132C257615A}|PocOnStateDesignPattern\\PocOnStateDesignPattern.csproj|s:\\office work\\monocept training\\assignments\\poconstatedesignpattern\\poconstatedesignpattern\\states\\goldstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3C79CD3-67E3-46B6-9FD8-3132C257615A}|PocOnStateDesignPattern\\PocOnStateDesignPattern.csproj|solutionrelative:poconstatedesignpattern\\states\\goldstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3C79CD3-67E3-46B6-9FD8-3132C257615A}|PocOnStateDesignPattern\\PocOnStateDesignPattern.csproj|s:\\office work\\monocept training\\assignments\\poconstatedesignpattern\\poconstatedesignpattern\\states\\platinumstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3C79CD3-67E3-46B6-9FD8-3132C257615A}|PocOnStateDesignPattern\\PocOnStateDesignPattern.csproj|solutionrelative:poconstatedesignpattern\\states\\platinumstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3C79CD3-67E3-46B6-9FD8-3132C257615A}|PocOnStateDesignPattern\\PocOnStateDesignPattern.csproj|s:\\office work\\monocept training\\assignments\\poconstatedesignpattern\\poconstatedesignpattern\\states\\silverstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3C79CD3-67E3-46B6-9FD8-3132C257615A}|PocOnStateDesignPattern\\PocOnStateDesignPattern.csproj|solutionrelative:poconstatedesignpattern\\states\\silverstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GoldState.cs",
+              "DocumentMoniker": "S:\\Office Work\\Monocept Training\\Assignments\\PocOnStateDesignPattern\\PocOnStateDesignPattern\\States\\GoldState.cs",
+              "RelativeDocumentMoniker": "PocOnStateDesignPattern\\States\\GoldState.cs",
+              "ToolTip": "S:\\Office Work\\Monocept Training\\Assignments\\PocOnStateDesignPattern\\PocOnStateDesignPattern\\States\\GoldState.cs",
+              "RelativeToolTip": "PocOnStateDesignPattern\\States\\GoldState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T12:57:02.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BasicState.cs",
+              "DocumentMoniker": "S:\\Office Work\\Monocept Training\\Assignments\\PocOnStateDesignPattern\\PocOnStateDesignPattern\\States\\BasicState.cs",
+              "RelativeDocumentMoniker": "PocOnStateDesignPattern\\States\\BasicState.cs",
+              "ToolTip": "S:\\Office Work\\Monocept Training\\Assignments\\PocOnStateDesignPattern\\PocOnStateDesignPattern\\States\\BasicState.cs",
+              "RelativeToolTip": "PocOnStateDesignPattern\\States\\BasicState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T12:56:26.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SilverState.cs",
+              "DocumentMoniker": "S:\\Office Work\\Monocept Training\\Assignments\\PocOnStateDesignPattern\\PocOnStateDesignPattern\\States\\SilverState.cs",
+              "RelativeDocumentMoniker": "PocOnStateDesignPattern\\States\\SilverState.cs",
+              "ToolTip": "S:\\Office Work\\Monocept Training\\Assignments\\PocOnStateDesignPattern\\PocOnStateDesignPattern\\States\\SilverState.cs",
+              "RelativeToolTip": "PocOnStateDesignPattern\\States\\SilverState.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T12:53:43.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PlatinumState.cs",
+              "DocumentMoniker": "S:\\Office Work\\Monocept Training\\Assignments\\PocOnStateDesignPattern\\PocOnStateDesignPattern\\States\\PlatinumState.cs",
+              "RelativeDocumentMoniker": "PocOnStateDesignPattern\\States\\PlatinumState.cs",
+              "ToolTip": "S:\\Office Work\\Monocept Training\\Assignments\\PocOnStateDesignPattern\\PocOnStateDesignPattern\\States\\PlatinumState.cs",
+              "RelativeToolTip": "PocOnStateDesignPattern\\States\\PlatinumState.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T12:43:45.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "State.cs",
+              "DocumentMoniker": "S:\\Office Work\\Monocept Training\\Assignments\\PocOnStateDesignPattern\\PocOnStateDesignPattern\\States\\State.cs",
+              "RelativeDocumentMoniker": "PocOnStateDesignPattern\\States\\State.cs",
+              "ToolTip": "S:\\Office Work\\Monocept Training\\Assignments\\PocOnStateDesignPattern\\PocOnStateDesignPattern\\States\\State.cs",
+              "RelativeToolTip": "PocOnStateDesignPattern\\States\\State.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T08:33:41.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StateManager.cs",
+              "DocumentMoniker": "S:\\Office Work\\Monocept Training\\Assignments\\PocOnStateDesignPattern\\PocOnStateDesignPattern\\States\\StateManager.cs",
+              "RelativeDocumentMoniker": "PocOnStateDesignPattern\\States\\StateManager.cs",
+              "ToolTip": "S:\\Office Work\\Monocept Training\\Assignments\\PocOnStateDesignPattern\\PocOnStateDesignPattern\\States\\StateManager.cs",
+              "RelativeToolTip": "PocOnStateDesignPattern\\States\\StateManager.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T08:03:37.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Account.cs",
+              "DocumentMoniker": "S:\\Office Work\\Monocept Training\\Assignments\\PocOnStateDesignPattern\\PocOnStateDesignPattern\\Context\\Account.cs",
+              "RelativeDocumentMoniker": "PocOnStateDesignPattern\\Context\\Account.cs",
+              "ToolTip": "S:\\Office Work\\Monocept Training\\Assignments\\PocOnStateDesignPattern\\PocOnStateDesignPattern\\Context\\Account.cs",
+              "RelativeToolTip": "PocOnStateDesignPattern\\Context\\Account.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAmwDoAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T07:37:24.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApplicationUI.cs",
+              "DocumentMoniker": "S:\\Office Work\\Monocept Training\\Assignments\\PocOnStateDesignPattern\\PocOnStateDesignPattern\\Presentation\\ApplicationUI.cs",
+              "RelativeDocumentMoniker": "PocOnStateDesignPattern\\Presentation\\ApplicationUI.cs",
+              "ToolTip": "S:\\Office Work\\Monocept Training\\Assignments\\PocOnStateDesignPattern\\PocOnStateDesignPattern\\Presentation\\ApplicationUI.cs",
+              "RelativeToolTip": "PocOnStateDesignPattern\\Presentation\\ApplicationUI.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAqwBsAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T07:36:33.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "S:\\Office Work\\Monocept Training\\Assignments\\PocOnStateDesignPattern\\PocOnStateDesignPattern\\Program.cs",
+              "RelativeDocumentMoniker": "PocOnStateDesignPattern\\Program.cs",
+              "ToolTip": "S:\\Office Work\\Monocept Training\\Assignments\\PocOnStateDesignPattern\\PocOnStateDesignPattern\\Program.cs",
+              "RelativeToolTip": "PocOnStateDesignPattern\\Program.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T07:35:30.521Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

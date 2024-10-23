@@ -1,0 +1,14 @@
+S:\Office Work\Monocept Training\Assignments\PocOnStateDesignPattern\PocOnStateDesignPattern\bin\Debug\net8.0\PocOnStateDesignPattern.exe
+S:\Office Work\Monocept Training\Assignments\PocOnStateDesignPattern\PocOnStateDesignPattern\bin\Debug\net8.0\PocOnStateDesignPattern.deps.json
+S:\Office Work\Monocept Training\Assignments\PocOnStateDesignPattern\PocOnStateDesignPattern\bin\Debug\net8.0\PocOnStateDesignPattern.runtimeconfig.json
+S:\Office Work\Monocept Training\Assignments\PocOnStateDesignPattern\PocOnStateDesignPattern\bin\Debug\net8.0\PocOnStateDesignPattern.dll
+S:\Office Work\Monocept Training\Assignments\PocOnStateDesignPattern\PocOnStateDesignPattern\bin\Debug\net8.0\PocOnStateDesignPattern.pdb
+S:\Office Work\Monocept Training\Assignments\PocOnStateDesignPattern\PocOnStateDesignPattern\obj\Debug\net8.0\PocOnStateDesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+S:\Office Work\Monocept Training\Assignments\PocOnStateDesignPattern\PocOnStateDesignPattern\obj\Debug\net8.0\PocOnStateDesignPattern.AssemblyInfoInputs.cache
+S:\Office Work\Monocept Training\Assignments\PocOnStateDesignPattern\PocOnStateDesignPattern\obj\Debug\net8.0\PocOnStateDesignPattern.AssemblyInfo.cs
+S:\Office Work\Monocept Training\Assignments\PocOnStateDesignPattern\PocOnStateDesignPattern\obj\Debug\net8.0\PocOnStateDesignPattern.csproj.CoreCompileInputs.cache
+S:\Office Work\Monocept Training\Assignments\PocOnStateDesignPattern\PocOnStateDesignPattern\obj\Debug\net8.0\PocOnStateDesignPattern.dll
+S:\Office Work\Monocept Training\Assignments\PocOnStateDesignPattern\PocOnStateDesignPattern\obj\Debug\net8.0\refint\PocOnStateDesignPattern.dll
+S:\Office Work\Monocept Training\Assignments\PocOnStateDesignPattern\PocOnStateDesignPattern\obj\Debug\net8.0\PocOnStateDesignPattern.pdb
+S:\Office Work\Monocept Training\Assignments\PocOnStateDesignPattern\PocOnStateDesignPattern\obj\Debug\net8.0\PocOnStateDesignPattern.genruntimeconfig.cache
+S:\Office Work\Monocept Training\Assignments\PocOnStateDesignPattern\PocOnStateDesignPattern\obj\Debug\net8.0\ref\PocOnStateDesignPattern.dll
